@@ -22,8 +22,8 @@ Par exemple, le cube résolu a pour definitionstring 'WWWWGGGRRRRBBBBOOOYYY'
 ********************************************************************************************
 
 Le coin Jaune-Orange-Vert est immobile; il sert de référence et permet ainsi :
-    - de fixer l'orientation du cube et appliquer ainsi au problème toutes les réductions par symétrie possibles.
-    - de diviser par 2 le nombre de mouvements appliquables à un cube donné, bien évidemment SPDG puisque l'ensemble
+* de fixer l'orientation du cube et appliquer ainsi au problème toutes les réductions par symétrie possibles.
+* de diviser par 2 le nombre de mouvements appliquables à un cube donné, bien évidemment SPDG puisque l'ensemble
       des mouvements restants permet toujours de parcourir toutes les configurations existantes.
 
 
